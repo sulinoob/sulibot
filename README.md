@@ -5,7 +5,7 @@
 [![SULIBOT](https://telegra.ph/file/76e4d52b2ff5c5760075e.jpg)]
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ ѕυℓιвσт Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 ------------
@@ -23,5 +23,4 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
 
